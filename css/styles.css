@@ -1,0 +1,20 @@
+.div-header{
+    background: url("../img/background.jpg");
+    background-size: cover;
+    min-height: 500px;
+    
+}
+
+  .texto{
+    padding-top: 10%;   
+    color: azure; 
+  }
+
+  P {
+    font-family: 'Noto Sans', sans-serif;
+  }
+  .navbar-brand{
+
+    font-family: 'Parisienne', cursive;
+
+  }
